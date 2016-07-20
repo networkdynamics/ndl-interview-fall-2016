@@ -22,7 +22,7 @@ In terms of deliverables, please submit the following by email to [Derek](mailto
   - a Makefile that will run your analysis from start to finish (you may assume that
     the jeopardy data file, `JEOPARDY_QUESTIONS.json` is located in the directory
     right above your submission directory)
-  - A short (less than 1 page) discussion that (1) analyzes your classifier performance and
+  - A short (about a page) discussion that (1) analyzes your classifier performance and
     (2) reveals something new and interesting about the underlying classes you were studying
 
 **Final note:** Your submission will be treated with complete confidentiality - it will not ever
@@ -30,6 +30,6 @@ be shared with anyone beyond Derek and the NDL PhD students.  That said, please
 do not submit any confidential or sensitive information.
 
 **Final, final note:** While we hope you will take the project seriously, please don't
-spend too much time on it. If your analysis is taking more than 3 or 4 hours, that's either
+spend too much time on it. If coding for the project is taking more than 4 hours, that's either
 a sign that you're being a bit too ambitious or that you need to spend more time building your core
 skillset (in which case, we'll look forward to your application in future years).
